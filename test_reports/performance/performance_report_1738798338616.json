@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-02-05T23:32:18.616510",
+  "metrics": {
+    "deployment_duration": {
+      "min": 1000,
+      "max": 1000,
+      "avg": 1000.0,
+      "median": 1000
+    }
+  },
+  "environment": {
+    "os": "linux",
+    "version": "3.2.3 (stable) (Tue Dec 5 17:58:33 2023 +0000) on \"linux_x64\"",
+    "numberOfProcessors": 96
+  }
+}

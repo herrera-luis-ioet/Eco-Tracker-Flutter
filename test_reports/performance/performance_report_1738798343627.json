@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-02-05T23:32:23.627507",
+  "metrics": {
+    "network_latency": {
+      "min": 0,
+      "max": 0,
+      "avg": 0.0,
+      "median": 0
+    }
+  },
+  "environment": {
+    "os": "linux",
+    "version": "3.2.3 (stable) (Tue Dec 5 17:58:33 2023 +0000) on \"linux_x64\"",
+    "numberOfProcessors": 96
+  }
+}

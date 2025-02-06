@@ -1,0 +1,6 @@
+{
+    "command": "flutter run --machine",
+    "working_directory": "/home/kavia/workspace/Eco-Tracker-Flutter",
+    "status": "success",
+    "message": "Executing flutter run command in machine mode"
+}

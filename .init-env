@@ -1,0 +1,4 @@
+FLUTTER_VERSION=3.27.4
+ANDROID_SDK_ROOT=/home/kavia/Android/sdk
+ANDROID_HOME=/home/kavia/Android/sdk
+PATH=$PATH:/home/kavia/workspace/flutter/bin
